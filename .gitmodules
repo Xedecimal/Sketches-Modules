@@ -1,0 +1,24 @@
+[submodule "Attic"]
+	path = Attic
+	url = https://github.com/Xedecimal/Sketches-Modules-Attic.git
+[submodule "BathroomUp"]
+	path = BathroomUp
+	url = https://github.com/Xedecimal/Sketches-Modules-BathroomUp.git
+[submodule "FrontDoor"]
+	path = FrontDoor
+	url = https://github.com/Xedecimal/Sketches-Modules-FrontDoor.git
+[submodule "Garage"]
+	path = Garage
+	url = https://github.com/Xedecimal/Sketches-Modules-Garage.git
+[submodule "Gateway"]
+	path = Gateway
+	url = https://github.com/Xedecimal/Sketches-Modules-Gateway.git
+[submodule "Kitchen"]
+	path = Kitchen
+	url = https://github.com/Xedecimal/Sketches-Modules-Kitchen.git
+[submodule "LaundryRoom"]
+	path = LaundryRoom
+	url = https://github.com/Xedecimal/Sketches-Modules-LaundryRoom.git
+[submodule "Office"]
+	path = Office
+	url = https://github.com/Xedecimal/Sketches-Modules-Office.git
